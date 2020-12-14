@@ -1,6 +1,8 @@
 ## Link to Figma Demo
 
-* Demo(https://www.figma.com/file/v0q5AXd27sfSyT7kCGANug/Covid-App-Assignment-2?node-id=0%3A1)
+* First Version (Assignment 1) (https://www.figma.com/file/milhSDA9VIhKZhFa2M7V4l/Covid-App-Assignment-1?node-id=0%3A1)
+* Second Version (Assignment 2) (https://www.figma.com/file/v0q5AXd27sfSyT7kCGANug/Covid-App-Assignment-2?node-id=0%3A1)
+* Third Version (Assignment 3) (https://www.figma.com/file/3vkIIYbF8xxEcbeBYsy2VT/Assignment-3?node-id=1%3A138) 
 
 ## Possible Added Features
 
